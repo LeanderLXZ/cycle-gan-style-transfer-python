@@ -1,0 +1,4 @@
+*__pycache__/
+monet2photo/
+training_results/
+*.hdf5
